@@ -1,6 +1,6 @@
 # Python3 program to convert ASCII
 # string to Hexadecimal format string
- 
+# love you s much 
 # function to convert ASCII to HEX
 def ASCIItoHEX(ascii):
  
